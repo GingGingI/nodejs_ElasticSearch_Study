@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_elasticsearch_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GingGingI/nodejs_ElasticSearch_Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GingGingI/nodejs_ElasticSearch_Study/issues"
+  },
+  "homepage": "https://github.com/GingGingI/nodejs_ElasticSearch_Study#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "elasticsearch": "^15.3.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.4"
+  }
+}
